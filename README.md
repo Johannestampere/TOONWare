@@ -193,7 +193,9 @@ Results:
 
 <img width="784" height="304" alt="Screenshot 2025-11-13 at 12 19 18" src="https://github.com/user-attachments/assets/dd27605c-ba76-48b5-8b0e-18e30b3b6216" />
 
+## License
 
+MIT License. Feel free to use, modify, and contribute.
 
 
 
