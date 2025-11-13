@@ -4,7 +4,7 @@
 
 ## What is TOON?
 
-**TOON (Tree-Oriented Object Notation)** is a compact data format designed to express JSON structures with significantly fewer tokens when processed by LLMs.
+**TOON (Token-Oriented Object Notation)** is a compact data format designed to express JSON structures with significantly fewer tokens when processed by LLMs.
 Compared to raw JSON, TOON:
 - Removes redundant characters such as braces, quotes, and commas
 - Uses concise structural patterns to represent objects and arrays
