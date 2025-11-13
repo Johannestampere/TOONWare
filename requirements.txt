@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+httpx
+orjson
+pydantic
+prometheus-client
+python-dotenv
+tiktoken
+python-toon
+
